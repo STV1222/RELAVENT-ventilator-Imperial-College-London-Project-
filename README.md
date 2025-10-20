@@ -98,10 +98,12 @@ Contributions are welcome. Open an issue to discuss changes or improvements.
 
 ## License
 
-Specify a license (e.g., MIT, Apache-2.0). If none is provided, all rights reserved by default. Add a `LICENSE` file to clarify usage.
+No license is granted. All rights reserved. This project and its contents belong to Imperial College London. Please contact Imperial College London for permissions or usage inquiries.
 
 ## Acknowledgements
 
+- Project belongs to Imperial College London.
+- Supervision by Dr. Joseph Van Batenburg-Sherwood, Imperial College London.
 - Imperial College London project context and collaborators.
 
 ---
